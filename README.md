@@ -23,7 +23,7 @@ To get started with the project, follow these steps:
 3. Explore the code and resources in the repository.
 
 ## Contributions
-Contributions to the project are welcome. If you'd like to contribute, please follow the guidelines in [CONTRIBUTING.md](abimbanj@gmail.com).
+Contributions to the project are welcome. If you'd like to contribute [gmail](abimbanj@gmail.com).
 
 ## License
 
